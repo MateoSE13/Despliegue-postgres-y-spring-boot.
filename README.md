@@ -56,9 +56,6 @@ La práctica incluye:
 
 Iniciar los contenedores:
 
-bash
-Copiar código
-docker-compose up -d
 ![image](https://github.com/user-attachments/assets/e686bfef-2348-43a7-9970-dd29a5a56ecd)
 
 Acceder a PgAdmin en http://localhost:5050 con las credenciales configuradas:
